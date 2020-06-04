@@ -1,6 +1,6 @@
 # Enterprise Integration Patterns
 
 # Upto
-Page 31
+Page 63
 
-Solving Integration Problems using Patterns
+Integration Styles
