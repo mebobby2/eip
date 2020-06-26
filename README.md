@@ -1,6 +1,6 @@
 # Enterprise Integration Patterns
 
 # Upto
-Page 81
+Page 105
 
-Message
+Message Endpoint
